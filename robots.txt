@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://greenpages-news.github.io/daily/sitemap.xml
